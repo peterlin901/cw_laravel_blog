@@ -1,2 +1,2 @@
-# cw_laravel_blog
-Training Laravel
+# Practice Laravel Project
+Use fork & PR to repo.
